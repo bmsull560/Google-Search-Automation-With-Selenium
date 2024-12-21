@@ -1,0 +1,30 @@
+1. Title: Python For Beginners
+   URL: https://www.python.org/about/gettingstarted/
+
+2. Title: Introduction to Python
+   URL: https://www.w3schools.com/python/python_intro.asp
+
+3. Title: Welcome to Python.org
+   URL: https://www.python.org/
+
+4. Title: Python Tutorial | Learn Python Programming Language
+   URL: https://www.geeksforgeeks.org/python-programming-language-tutorial/
+
+5. Title: 
+   URL: https://www.coursera.org/in/articles/what-is-python-used-for-a-beginners-guide-to-using-python#:~:text=Python%20is%20commonly%20used%20for,everyday%20tasks%2C%20like%20organising%20finances.
+
+6. Title: 
+   URL: https://www.udemy.com/course/learn-python-in-30/#:~:text=Python%20is%20one%20of%20the,around%2015%20minutes%20each%20day.
+
+7. Title: 
+   URL: https://bootcamp.cvn.columbia.edu/blog/python-basics-guide/#:~:text=Python%20is%20a%20multipurpose%2C%20high,websites%2C%20and%20automate%20repetitive%20tasks.
+
+8. Title: 
+   URL: https://www.coursera.org/articles/how-long-does-it-take-to-learn-python-tips-for-learning#:~:text=Python%20is%20widely%20considered%20among,of%20the%20most%20widely%20used.
+
+9. Title: Python Examples
+   URL: https://www.programiz.com/python-programming/examples
+
+10. Title: Python (programming language)
+   URL: https://en.wikipedia.org/wiki/Python_(programming_language)
+
